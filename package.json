@@ -1,0 +1,22 @@
+{
+  "name": "alexa-powerpoint",
+  "version": "1.0.0",
+  "description": "Use Amazon's Alexa to control Microsoft Powerpoint slides",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdayaday/alexa-powerpoint.git"
+  },
+  "author": "Jonathan Dayaday",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdayaday/alexa-powerpoint/issues"
+  },
+  "homepage": "https://github.com/jdayaday/alexa-powerpoint#readme",
+  "dependencies": {
+    "aws-sdk": "^2.15.0"
+  }
+}
